@@ -18,6 +18,7 @@ let weather = {
     document.querySelector(".city").innerHTML = "Weather in " + name;
     document.querySelector(".icon").src =
       "https://openweathermap.org/img/wn/" + icon + ".png";
+   document.querySelector(".description").innerHTML = description;
     document.querySelector(".temp").innerHTML = temp + "°F";
     document.querySelector(".humidity").innerHTML = "Humidity: " + humidity + "%";
     document.querySelector(".wind").innerHTML = "Wind Speed: " + speed + " mph";
