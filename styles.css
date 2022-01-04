@@ -55,10 +55,10 @@ input.search-bar {
 h1.temp {
   margin: 0;
 }
-.weather.loading {
+/* .weather.loading {
   visibility: hidden;
   max-height: 20px;
-}
+} */
 /* .weather.loading:after {
     visibility: visible;
     content: "Loading ...";
