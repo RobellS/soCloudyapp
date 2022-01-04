@@ -4,7 +4,7 @@ With colder weather moving into the tri-state, knowing  the temperature outside 
 # Target end-user for this program
 The ideal end-user is a privacy-focused user that wants the convenience of checking weather without having other information taken, all while enjoying a robust library of photos of the very city they input.
 
-[Go to the website]()
+[Go to the website](https://robells.github.io/soCloudyapp/)
 
 
 
