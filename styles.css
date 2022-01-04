@@ -57,19 +57,18 @@ input.search-bar {
 h1.temp {
   margin: 0;
 }
-
+/*Hides and loads weather information while loading*/
 .weather.loading {
   visibility: hidden;
   max-height: 20px;
 }
-/* .weather.loading:after {
+.weather.loading:after {
     visibility: visible;
     content: "Loading ...";
     color: white;
     position: absolute;
     top: 0;
-} */
-
+} 
 .logo1 {
   position: fixed;
   bottom: 6px;
