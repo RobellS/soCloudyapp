@@ -62,12 +62,10 @@ h1.temp {
   visibility: hidden;
   max-height: 20px;
 }
-/* .weather.loading:after {
+.weather.loading:after {
     visibility: visible;
-    content: "Loading ...";
-    color: white;
     position: absolute;
-    top: 0; */
+    top: 0;
 } 
 .logo1 {
   position: fixed;
