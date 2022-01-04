@@ -10,6 +10,7 @@ body {
   font-family: monospace;
 }
 
+/*Display for temperature*/
 .card {
   background: #dbdadad0;
   color: black;
@@ -19,6 +20,7 @@ body {
   max-width: 420px;
   margin: 1em;
 }
+
 .search {
   display: flex;
   align-items: center;
@@ -36,7 +38,7 @@ body {
   cursor: pointer;
   transition: 0.2s ease-in-out;
 }
-
+/*Search input bar for user in type city */
 input.search-bar {
   background: #221f1f2b;
   border: none;
@@ -48,13 +50,14 @@ input.search-bar {
   font-size: 130%;
   width: calc(100% - 80px);
 }
-
+/* Hover function for the search button*/
 .searchButton:hover {
   background: #7c7c7c7b;
 }
 h1.temp {
   margin: 0;
 }
+
 .weather.loading {
   visibility: hidden;
   max-height: 20px;
